@@ -6,6 +6,12 @@ Spark challenge organized by ENTC focusing on global warming and sustainable dev
 ## Project Description
 Welcome to the Algagen project repository, brought to you by Team Spectro! Algagen is a pioneering solution designed to address the energy crisis in Sri Lanka. By harnessing the power of green algae's biochemical processes, we aim to revolutionize electricity generation and energy storage in an eco-friendly and cost-effective manner.
 
+
+
+https://github.com/sithija-vihanga/Spark-2023/assets/116638289/935c41b7-1a8a-430f-b414-cbe87a00d9d5
+
+
+
 ## Objective
 Algagen's primary objective is to develop a cutting-edge method for hydrogen generation using green algae through an indirect photolysis (two-stage) process. By combining photosynthesis and fermentation, we can produce hydrogen gas efficiently, reducing reliance on expensive imported fuels and mitigating environmental pollution.
 
