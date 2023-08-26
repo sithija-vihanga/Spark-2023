@@ -41,7 +41,7 @@ At its current stage, Algagen is undergoing rapid development and iterative refi
 
 Let's unite our efforts and pave the way for a greener and more prosperous Sri Lanka with Algagen's revolutionary hydrogen production method!
 
-###Our Team
+### Our Team
 
 <img src="https://github.com/sithija-vihanga/Spark-2023/assets/106132194/df01f014-2ae3-4a62-8c49-ab6347532bf1" alt="Our Team" style="width: 300px;">
 
